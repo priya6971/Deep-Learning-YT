@@ -3,8 +3,11 @@ This repository contains all the notes, code files, and relevant resources from 
 
 What's Inside:
 ✅ Well-commented Jupyter notebooks
+
 ✅ Step-by-step implementations of deep learning models
+
 ✅ Lecture notes and explanations in simple terms
+
 ✅ Links to each corresponding YouTube video
 
 📺 Playlist Link: https://www.youtube.com/playlist?list=PLcz9-JSejut9KkBkvSYBpb1MqbLxAjO9W
